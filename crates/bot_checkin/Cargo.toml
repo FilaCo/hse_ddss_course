@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+uuid = { version = "1", features = ["fast-rng", "v4", "v7"] }
+teloxide = { version = "0.13", features = ["macros"] }
+tokio = { version = "1", features = ["rt-multi-thread", "macros"] }
