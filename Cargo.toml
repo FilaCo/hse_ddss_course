@@ -1,6 +1,0 @@
-[workspace]
-resolver = "2"
-members = ["crates/*"]
-
-[workspace.dependencies]
-teloxide = { version = "0.13" }
