@@ -1,0 +1,3 @@
+[submodule "examples/safonov"]
+	path = examples/safonov
+	url = git@github.com:FilaCo/safonov.git
